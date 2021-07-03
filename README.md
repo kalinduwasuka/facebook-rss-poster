@@ -7,6 +7,8 @@
 
 ## Installation
 
+>First you need facebook php sdk
+
 > Here some key points of the code.You need to add your facebook app token to config.php
 
  include 'config.php'; <br>
